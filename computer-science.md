@@ -1392,3 +1392,4 @@ References:
 - [ ] (Wiki) [Email](https://en.wikipedia.org/wiki/Email)
   - [ ] (Wiki) [Email digest](https://en.wikipedia.org/wiki/Email_digest)
 - [ ] (Wiki) [Network Topology](https://en.wikipedia.org/wiki/Network_topology)
+- [ ] (Wiki) [Interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction)
