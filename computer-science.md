@@ -1393,3 +1393,4 @@ References:
   - [ ] (Wiki) [Email digest](https://en.wikipedia.org/wiki/Email_digest)
 - [ ] (Wiki) [Network Topology](https://en.wikipedia.org/wiki/Network_topology)
 - [ ] (Wiki) [Interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction)
+- [ ] (Wiki) [Immediate mode GUI](https://en.wikipedia.org/wiki/Immediate_mode_GUI)
